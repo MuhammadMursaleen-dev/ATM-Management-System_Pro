@@ -1,0 +1,52 @@
+[
+    {
+        "accountNo": 112233,
+        "name": "MUHAMMAD",
+        "mobile": "03143230528",
+        "CNIC": 3230250082473,
+        "pin": "1122",
+        "balance": 1100.0,
+        "history": [
+            "deposited PKR500.00",
+            "Withdraw PKR400.00",
+            "PIN Changed Successfully",
+            "received PKR500.00 from account no:112233"
+        ],
+        "attempts": 0
+    },
+    {
+        "accountNo": 11111,
+        "name": "MUHAMMAD MURSALEEN",
+        "mobile": "03143230528",
+        "CNIC": 3230250082473,
+        "pin": "1212",
+        "balance": 5000.0,
+        "history": [],
+        "attempts": 0
+    },
+    {
+        "accountNo": 12121,
+        "name": "MUHAMMAD",
+        "mobile": "03143230528",
+        "CNIC": 3230250082473,
+        "pin": "1112",
+        "balance": 30000.0,
+        "history": [],
+        "attempts": 0
+    },
+    {
+        "accountNo": 1,
+        "name": "MUHAMMAD MURSALEEN",
+        "mobile": "03248298493",
+        "CNIC": 3230250067890,
+        "pin": "1100",
+        "balance": 2000.0,
+        "history": [
+            "deposited PKR900.00",
+            "Withdraw PKR400.00",
+            "transferred PKR500.00 to account no:112233",
+            "PIN Changed Successfully"
+        ],
+        "attempts": 3
+    }
+]
